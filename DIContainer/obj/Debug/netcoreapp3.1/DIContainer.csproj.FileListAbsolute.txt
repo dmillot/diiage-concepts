@@ -1,0 +1,14 @@
+/home/damien/Documents/diiage/Concepts/DIContainer/bin/Debug/netcoreapp3.1/DIContainer
+/home/damien/Documents/diiage/Concepts/DIContainer/bin/Debug/netcoreapp3.1/DIContainer.deps.json
+/home/damien/Documents/diiage/Concepts/DIContainer/bin/Debug/netcoreapp3.1/DIContainer.runtimeconfig.json
+/home/damien/Documents/diiage/Concepts/DIContainer/bin/Debug/netcoreapp3.1/DIContainer.runtimeconfig.dev.json
+/home/damien/Documents/diiage/Concepts/DIContainer/bin/Debug/netcoreapp3.1/DIContainer.dll
+/home/damien/Documents/diiage/Concepts/DIContainer/bin/Debug/netcoreapp3.1/DIContainer.pdb
+/home/damien/Documents/diiage/Concepts/DIContainer/obj/Debug/netcoreapp3.1/DIContainer.csproj.AssemblyReference.cache
+/home/damien/Documents/diiage/Concepts/DIContainer/obj/Debug/netcoreapp3.1/DIContainer.GeneratedMSBuildEditorConfig.editorconfig
+/home/damien/Documents/diiage/Concepts/DIContainer/obj/Debug/netcoreapp3.1/DIContainer.AssemblyInfoInputs.cache
+/home/damien/Documents/diiage/Concepts/DIContainer/obj/Debug/netcoreapp3.1/DIContainer.AssemblyInfo.cs
+/home/damien/Documents/diiage/Concepts/DIContainer/obj/Debug/netcoreapp3.1/DIContainer.csproj.CoreCompileInputs.cache
+/home/damien/Documents/diiage/Concepts/DIContainer/obj/Debug/netcoreapp3.1/DIContainer.dll
+/home/damien/Documents/diiage/Concepts/DIContainer/obj/Debug/netcoreapp3.1/DIContainer.pdb
+/home/damien/Documents/diiage/Concepts/DIContainer/obj/Debug/netcoreapp3.1/DIContainer.genruntimeconfig.cache

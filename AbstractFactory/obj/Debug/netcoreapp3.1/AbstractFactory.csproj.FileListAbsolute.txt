@@ -1,0 +1,14 @@
+/home/damien/Documents/diiage/Concepts/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory
+/home/damien/Documents/diiage/Concepts/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.deps.json
+/home/damien/Documents/diiage/Concepts/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.runtimeconfig.json
+/home/damien/Documents/diiage/Concepts/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.runtimeconfig.dev.json
+/home/damien/Documents/diiage/Concepts/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.dll
+/home/damien/Documents/diiage/Concepts/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.pdb
+/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.csproj.AssemblyReference.cache
+/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.AssemblyInfoInputs.cache
+/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.AssemblyInfo.cs
+/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.csproj.CoreCompileInputs.cache
+/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.dll
+/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.pdb
+/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.genruntimeconfig.cache

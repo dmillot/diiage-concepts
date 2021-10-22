@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/damien/Documents/diiage/Concepts/TestConcepts/TestConcepts.csproj": {}
+  },
+  "projects": {
+    "/home/damien/Documents/diiage/Concepts/AbstractFactory/AbstractFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/damien/Documents/diiage/Concepts/AbstractFactory/AbstractFactory.csproj",
+        "projectName": "AbstractFactory",
+        "projectPath": "/home/damien/Documents/diiage/Concepts/AbstractFactory/AbstractFactory.csproj",
+        "packagesPath": "/home/damien/.nuget/packages/",
+        "outputPath": "/home/damien/Documents/diiage/Concepts/AbstractFactory/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/damien/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/damien/Documents/diiage/Concepts/DIContainer/DIContainer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/damien/Documents/diiage/Concepts/DIContainer/DIContainer.csproj",
+        "projectName": "DIContainer",
+        "projectPath": "/home/damien/Documents/diiage/Concepts/DIContainer/DIContainer.csproj",
+        "packagesPath": "/home/damien/.nuget/packages/",
+        "outputPath": "/home/damien/Documents/diiage/Concepts/DIContainer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/damien/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/damien/Documents/diiage/Concepts/Singleton/Singleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/damien/Documents/diiage/Concepts/Singleton/Singleton.csproj",
+        "projectName": "Singleton",
+        "projectPath": "/home/damien/Documents/diiage/Concepts/Singleton/Singleton.csproj",
+        "packagesPath": "/home/damien/.nuget/packages/",
+        "outputPath": "/home/damien/Documents/diiage/Concepts/Singleton/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/damien/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/damien/Documents/diiage/Concepts/TestConcepts/TestConcepts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/damien/Documents/diiage/Concepts/TestConcepts/TestConcepts.csproj",
+        "projectName": "TestConcepts",
+        "projectPath": "/home/damien/Documents/diiage/Concepts/TestConcepts/TestConcepts.csproj",
+        "packagesPath": "/home/damien/.nuget/packages/",
+        "outputPath": "/home/damien/Documents/diiage/Concepts/TestConcepts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/damien/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/damien/Documents/diiage/Concepts/AbstractFactory/AbstractFactory.csproj": {
+                "projectPath": "/home/damien/Documents/diiage/Concepts/AbstractFactory/AbstractFactory.csproj"
+              },
+              "/home/damien/Documents/diiage/Concepts/DIContainer/DIContainer.csproj": {
+                "projectPath": "/home/damien/Documents/diiage/Concepts/DIContainer/DIContainer.csproj"
+              },
+              "/home/damien/Documents/diiage/Concepts/Singleton/Singleton.csproj": {
+                "projectPath": "/home/damien/Documents/diiage/Concepts/Singleton/Singleton.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

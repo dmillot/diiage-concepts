@@ -1,0 +1,14 @@
+/home/damien/Documents/diiage/Concepts/Singleton/bin/Debug/netcoreapp3.1/Singleton
+/home/damien/Documents/diiage/Concepts/Singleton/bin/Debug/netcoreapp3.1/Singleton.deps.json
+/home/damien/Documents/diiage/Concepts/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.json
+/home/damien/Documents/diiage/Concepts/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.dev.json
+/home/damien/Documents/diiage/Concepts/Singleton/bin/Debug/netcoreapp3.1/Singleton.dll
+/home/damien/Documents/diiage/Concepts/Singleton/bin/Debug/netcoreapp3.1/Singleton.pdb
+/home/damien/Documents/diiage/Concepts/Singleton/obj/Debug/netcoreapp3.1/Singleton.csproj.AssemblyReference.cache
+/home/damien/Documents/diiage/Concepts/Singleton/obj/Debug/netcoreapp3.1/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/damien/Documents/diiage/Concepts/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfoInputs.cache
+/home/damien/Documents/diiage/Concepts/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfo.cs
+/home/damien/Documents/diiage/Concepts/Singleton/obj/Debug/netcoreapp3.1/Singleton.csproj.CoreCompileInputs.cache
+/home/damien/Documents/diiage/Concepts/Singleton/obj/Debug/netcoreapp3.1/Singleton.dll
+/home/damien/Documents/diiage/Concepts/Singleton/obj/Debug/netcoreapp3.1/Singleton.pdb
+/home/damien/Documents/diiage/Concepts/Singleton/obj/Debug/netcoreapp3.1/Singleton.genruntimeconfig.cache
